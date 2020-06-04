@@ -1,6 +1,6 @@
 # SMS-Spam-Detection-NLP-
 
-Description : Worked with a dataset containing of 5500 sms datas approximately.
+Description : Worked with a dataset containing of 5500 sms datas approximately.This dataset is from UCI machine Learning repository.
 
 Language: Python
 
